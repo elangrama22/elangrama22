@@ -1,16 +1,28 @@
-## Hi there 👋
+# elangrama22
 
-<!--
-**elangrama22/elangrama22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My focus lies at the intersection of software engineering and hardware integration. I enjoy building comprehensive systems, from web and desktop software to custom embedded electronics.
 
-Here are some ideas to get you started:
+## Expertise & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Software & Web Development
+* **Languages:** JavaScript, PHP, Python, C/C++
+* **Frameworks & Environments:** Laravel, Electron, Node.js
+* **Mobile:** Android Development (Native)
+
+### Embedded Systems & IoT
+* **Microcontrollers:** ESP32 (ESP32-C3), Arduino Nano
+* **Protocols:** WebSockets, Serial Communication
+* **Applications:** Custom vehicle electronics, real-time data transfer, sensor interfacing
+
+### Development Tools & Infrastructure
+* **Environments:** Linux (KDE Neon), Docker
+* **Version Control & Management:** Git, NVM
+
+## Current Focus & Interests
+* Bridging the gap between software applications and physical hardware.
+* Developing custom modules for motorcycle performance and diagnostics (e.g., Quickshifters, Launch Control).
+* Exploring computer vision scripts for simulation environments.
+
+## Let's Connect
+* [LinkedIn](https://linkedin.com/in/elangrama22)
+* [Email](mailto:elangrama22@gmail.com)
